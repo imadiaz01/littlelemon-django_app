@@ -18,7 +18,6 @@ The goal of this project was to develop a functional website for the Little Lemo
 
 * Menu Item Details: Clicking any menu item opens a dedicated page displaying full details (Name, Price, Description, Image).
 * Reservation System: A functional booking page to handle user reservations.
-![alt text](image-8.png)
 
 * Admin Interface: Full utilization of Django Admin for managing menu content and database entries.
 * UI/UX: Includes a consistent footer across all pages.
